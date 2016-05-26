@@ -1,4 +1,4 @@
-# ExploratoryDataAnalysis  
+# Exploratory Data Analysis  
 Course Project 2 of the course Exploratory Data Analysis by John Hopkins University on Coursera  
   
 # Instructions  
